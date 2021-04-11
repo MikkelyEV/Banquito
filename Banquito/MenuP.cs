@@ -16,5 +16,10 @@ namespace Banquito
         {
             InitializeComponent();
         }
+
+        private void MenuP_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
